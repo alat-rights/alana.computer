@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Alana's Website
+title: Alana
 permalink: /
 ---
 
