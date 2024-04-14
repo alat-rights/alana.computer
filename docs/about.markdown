@@ -6,6 +6,6 @@ permalink: /
 
 Hi! I'm Alana.
 
-My goal is to make the world a better place.
+My goal is to make the future awesome.
 
-I do AI safety research.
+I currently do AI safety research. Check out some of my work in the [projects tab](/projects).
