@@ -22,4 +22,4 @@ These days, I think about:
 You might want to...
 - Check out [alana-utils](https://utils.alana.computer/), my opionated Python library for LLM-heavy workflows.
 - Keep up with my every move on [GitHub](https://github.com/alat-rights).
-- Say hi! (My email address is hi @ my-second-level-domain (dot) my-top-level-domain)
+- Say hi! (My email address is hi @ my-second-level-domain (dot) my-top-level-domain). I'd love to hear about what you've been working on and/or thinking about.
