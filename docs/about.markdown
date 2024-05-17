@@ -4,7 +4,7 @@ layout: page
 permalink: /
 ---
 
-## Hi! I'm Alana.
+Hi! I'm Alana.
 
 My goal is to make the future awesome. I currently do AI safety research.
 
