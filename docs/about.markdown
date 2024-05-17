@@ -20,7 +20,7 @@ These days, I think about:
 - The inner lives of transformers
 
 You might want to...
-- Check out [alana-utils](https://utils.alana.computer/), my opionated Python library for LLM-heavy workflows.
+- Check out [alana-utils](https://utils.alana.computer/), my opinionated Python library for LLM-heavy workflows.
 - Check out [eval-awareness](https://github.com/alat-rights/evalawareness), my ongoing research into LLMs' ability to discriminate between evaluation and deployment environments.
 - Keep up with my every move on [GitHub](https://github.com/alat-rights).
 - Say hi! (My email address is hi @ my-second-level-domain (dot) my-top-level-domain). I'd love to hear about what you've been working on and/or thinking about.
