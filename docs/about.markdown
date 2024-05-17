@@ -8,16 +8,18 @@ permalink: /
 
 My goal is to make the future awesome. I currently do AI safety research.
 
-In the past, I have:
-- Built systems to catch bad actors for [WhatsApp](https://faq.whatsapp.com/1805617343145907)
-- Conducted [pre-release safety testing on GPT-4](https://metr.org/blog/2023-08-01-new-report/) for ARC Evals (now [METR](https://metr.org/blog/2023-12-04-metr-announcement/))
-- Studied worst-case risks from AI at the [Center on Long-Term Risk](https://longtermrisk.org/)
-- Conducted research on the AI alignment problem with Vivek Hebbar via the [MATS program](https://www.matsprogram.org/)
+I study computer science at Stanford University.
 
 These days, I think about:
 - How to test, monitor, secure, and contain powerful future AI systems
 - How to build infrastructure and tooling that speed up researchers
 - The inner lives of transformers
+
+In the past, I have:
+- Built systems to catch bad actors for [WhatsApp](https://faq.whatsapp.com/1805617343145907)
+- Conducted [pre-release safety testing on GPT-4](https://metr.org/blog/2023-08-01-new-report/) for ARC Evals (now [METR](https://metr.org/blog/2023-12-04-metr-announcement/))
+- Studied worst-case risks from AI at the [Center on Long-Term Risk](https://longtermrisk.org/)
+- Conducted research on the AI alignment problem with Vivek Hebbar via the [MATS program](https://www.matsprogram.org/)
 
 You might want to...
 - Check out [alana-utils](https://utils.alana.computer/), my opionated Python library for LLM-heavy workflows.
