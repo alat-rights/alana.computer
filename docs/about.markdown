@@ -6,9 +6,7 @@ permalink: /
 
 Hi! I'm Alana.
 
-My goal is to make the future awesome. I currently do AI safety research.
-
-I study computer science at Stanford University.
+My goal is to make the future awesome. I currently do AI safety research. I study CS at Stanford (currently on leave).
 
 In the past, I have:
 - Built systems to catch bad actors for [WhatsApp](https://faq.whatsapp.com/1805617343145907)
