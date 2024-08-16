@@ -4,8 +4,8 @@ layout: page
 permalink: /
 ---
 
-**Update!**
-**I am joining Magic AI as a Member of Technical Staff.**
+**Update:**
+**I am joining Magic AI as a Member of Technical Staff!!**
 
 Hi! I'm Alana.
 
