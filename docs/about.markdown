@@ -23,4 +23,4 @@ In the past, I have:
 
 If you're in Tokyo or San Francisco, I'd love to meet up. I'm always looking to make new friends.
 
-Please [email](hi@alana.computer) me!
+Please [email](mailto:hi@alana.computer) me!
