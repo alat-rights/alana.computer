@@ -4,14 +4,11 @@ layout: page
 permalink: /
 ---
 
-**Update:**
-**I am joining Magic AI as a Member of Technical Staff!!**
-
 Hi! I'm Alana.
 
 My goal is to make the future awesome.
 
-Currently, I do this by building LLM evals at Magic.dev.
+Currently, I'm working toward this goal as a Member of Technical Staff at [Magic](https://magic.dev).
 
 I'm on a leave of absence from Stanford University, where I studied Computer Science.
 
